@@ -9,21 +9,15 @@ Repository for community contributed themes for [Standard Notes](https://standar
 
 ### Better Solarized Dark
 
-Note: there is now an official solarized theme, but I prefer this because it has
-monospace fonts and not so much bright green.
-
-Dark solarized theme, based on the official [Midnight theme](https://standardnotes.org/extensions/midnight).
-Uses mainly official solarized colours, tweaked slightly for greater contrast
-and visibility on mobile.  Features proper solarized code syntax highlighting
-in editors.
-
-- Author: Samuel Walladge
+This theme was forked from [this repository](https://github.com/swalladge/sn-themes) in a quick attempt to package the *official solarized dark theme* as someone who has not yet bought the extended package.
+Only the official .css file was used in place of the original theme's .css, and the links were updated to only take resources from this github page.
+The .zip package necessary was created by the current .css and .json file, and includes these files only.
+- Author: Orestarod
 - License: GPLv3
-- Sources: <https://github.com/swalladge/sn-themes/blob/master/better-solarized-dark/>
-- Install link: <https://static.swalladge.id.au/sn-themes/better-solarized-dark/package.json>
+- Sources: <https://github.com/orestarod/sn-themes>
+- Install link: <https://raw.githubusercontent.com/orestarod/sn-themes/master/better-solarized-dark/package.json>
 
 ![screenshot](./images/solarized-dark-screenshot.png)
-![screenshot with syntax highlighting](./images/solarized-dark-screenshot-syntax.png)
 
 
 ### Other community themes
