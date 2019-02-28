@@ -22,9 +22,7 @@ The .zip package necessary was created by the current .css and .json file, and i
 
 ### Other community themes
 
-- [Typographic](https://github.com/sancho-one/sn-themes), a light theme for easy reading.
 - [s4skia](https://github.com/flowinho/s4skia), light theme for readability on retina displays.
-- <https://github.com/TobiasDev/SN_Themes>
 - [Lyons](https://github.com/jamesjlyons/Lyons)
 
 
