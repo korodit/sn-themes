@@ -49,7 +49,7 @@ Light theme that focus on readability on retina displays
 - Author: flowinho
 - License: GNU General Public License v3.0
 - Sources: <https://github.com/flowinho/s4skia>
-- Install link: none
+- Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/s4skia.json>
 
 ![screenshot](./images/s4skia-screenshot.png)
 
@@ -60,7 +60,7 @@ Light, serif theme
 - Author: jamesjlyons
 - License: Not specified
 - Sources: <https://github.com/jamesjlyons/Lyons>
-- Install link: none
+- Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/lyons.json>
 
 ![screenshot](./images/lyons-screenshot.png)
 
