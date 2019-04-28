@@ -4,7 +4,9 @@
 Repository for community contributed themes for [Standard Notes](https://standardnotes.org/).
 
 ## Installing
-Third-party themes can be installed by clicking on "Extensions" > "Import Extension" in your StandardNotes webapp or desktop app, pasting the install link and pressing enter. Third-party themes do not require StandardNotes extended but are not compatible with the StandardNotes mobile app.
+Third-party themes can be installed by clicking on "Extensions" > "Import Extension" in your StandardNotes webapp or desktop app, pasting the install link and pressing enter. 
+
+Third-party desktop themes do not require StandardNotes extended. Most third-party themes are not compatible with the mobile app, if they are, you will still need a StandardNotes Extended account for mobile themes.
 
 ## Themes
 
@@ -97,15 +99,18 @@ This theme is nearly the same as the default/blank theme, but widens the scroll 
 
 ## Developing themes
 
-The easiest way to develop a theme is to pick an existing theme that is
-close to what you are wanting, and modify it from there. The desktop and web
-applications use the css file, which afaik can contain any valid css, including
-font imports and such. The mobile app uses the json style file. (todo: find
-docs for what other json keys do)
+The easiest way to develop a theme is by forking an existing theme from the list above and modify it from there.
+The desktop and web applications use the css file, which afaik can contain any valid css, including
+font imports and such. The mobile app uses the json style file.
 
+An example for a standalone theme including a mobile and desktop theme is the [Material theme](https://github.com/vantezzen/sn-theme-material). The desktop theme is located inside `src/main.css`, the mobile theme inside `src/main.json`. 
 
-To make a theme installable, follow the instructions at
-<https://docs.standardnotes.org/extensions/publishing.html>.  There are some
+To publish you extension, you need to also modify the `extension.json` file, containing information about the extension. When using the Material theme mentioned above, you can simply replace `vantezzen/sn-theme-material` with `[Your GitHub username]/[Your repository name]` inside `extension.json` to make your theme work. 
+
+You can then insert the `latest_url` from `extension.json` into your StandardNotes app to install the theme.
+
+Alternatively, you can follow the instructions at
+<https://docs.standardnotes.org/extensions/publishing.html>. There are some
 gotchas. Most should be clear if you see the package.zip file I use for the
 solarized theme. I use the package.json for both the extension metadata and the
 package.json that is installed with the app and tells sn which file to load.
