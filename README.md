@@ -19,11 +19,31 @@ The .zip package necessary was created by the current .css and .json file, and i
 
 ![screenshot](./images/solarized-dark-screenshot.png)
 
+### Material Dark
 
 ### Other community themes
+This theme is similar to the Better Solarized Dark, but using a slightly different color theme and being based off the [Atom Material UI Theme](https://github.com/atom-material/atom-material-ui)
 
 - [s4skia](https://github.com/flowinho/s4skia), light theme for readability on retina displays.
 - [Lyons](https://github.com/jamesjlyons/Lyons)
+- Author: vantezzen
+- License: MIT
+- Sources: <https://github.com/vantezzen/sn-theme-material>
+- Install link: <https://cdn.jsdelivr.net/gh/vantezzen/sn-theme-material/extension.json>
+
+![screenshot](./images/material-dark-screenshot.png)
+
+### Gruvbox Dark Theme
+
+Theme based on the [gruvbox theme for vim](https://github.com/morhetz/gruvbox)
+
+- Author: christianhans
+- License: MIT
+- Sources: <https://github.com/christianhans/sn-gruvbox-dark-theme>
+- Install link: <https://listed.standardnotes.org/CkWVdPhzvs>
+
+![screenshot](./images/gruvbox-screenshot.png)
+
 
 
 ## Developing themes
