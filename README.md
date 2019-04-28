@@ -3,7 +3,8 @@
 
 Repository for community contributed themes for [Standard Notes](https://standardnotes.org/).
 
-## Notes
+## Installing
+Third-party themes can be installed by clicking on "Extensions" > "Import Extension" in your StandardNotes webapp or desktop app, pasting the install link and pressing enter. Third-party themes do not require StandardNotes extended but are not compatible with the StandardNotes mobile app.
 
 ## Themes
 
