@@ -64,6 +64,36 @@ Light, serif theme
 
 ![screenshot](./images/lyons-screenshot.png)
 
+### Mojave Dark Theme
+
+Dark theme, which roughly matches Mojave Dark Mode.
+
+- Author: matthew-cox
+- License: Not specified
+- Sources: <https://github.com/matthew-cox/sn-theme-mojave-dark-mode>
+- Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/mojave.json>
+
+![screenshot](https://github.com/matthew-cox/sn-theme-mojave-dark-mode/raw/master/preview.png)
+
+### Minimal
+
+This theme is nearly the same as the default/blank theme, but widens the scroll bars. Helpful for people who want to do that, as well as anyone who wants to toy with customizing a barebones SN theme.
+
+- Author: ajh3
+- License: Not specified
+- Sources: <https://github.com/ajh3/sn-theme-minimal>
+- Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/minimal.json>
+
+![screenshot](./images/minimal-screenshot.png)
+
+### Solarized light
+
+- Author: skulkingfox
+- License: Not specified
+- Sources: <https://github.com/skulkingfox/solarized-light-theme>
+- Install link: <https://listed.standardnotes.org/lYxsNwG7Xi>
+
+![screenshot](./images/solarized-light-screenshot.png)
 
 ## Developing themes
 

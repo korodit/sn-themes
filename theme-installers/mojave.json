@@ -1,0 +1,13 @@
+{
+  "identifier": "io.github.matthew-cox.mojave-dark-mode",
+  "name": "Mojave Dark Mode",
+  "content_type": "SN|Component",
+  "area": "themes",
+  "description": "Mojave Dark Mode theme",
+  "version": "v0.0.2",
+  "url": "https://cdn.jsdelivr.net/gh/matthew-cox/sn-theme-mojave-dark-mode/dist/mojave-dark-mode.css",
+  "download_url": "https://github.com/matthew-cox/sn-theme-mojave-dark-mode/archive/master.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/mojave.json",
+  "marketing_url": "https://github.com/matthew-cox/sn-theme-mojave-dark-mode",
+  "thumbnail_url": "https://github.com/matthew-cox/sn-theme-mojave-dark-mode/raw/master/preview.png"
+}
