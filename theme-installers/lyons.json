@@ -1,0 +1,13 @@
+{
+  "identifier": "io.github.jamesjlyons.Lyons",
+  "name": "Lyons Theme",
+  "content_type": "SN|Component",
+  "area": "themes",
+  "description": "Lyons Theme",
+  "version": "v1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/jamesjlyons/Lyons/lyons-standardnotes-theme.css",
+  "download_url": "https://github.com/jamesjlyons/Lyons/archive/master.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/lyons.json",
+  "marketing_url": "https://github.com/jamesjlyons/Lyons",
+  "thumbnail_url": "https://cdn.jsdelivr.net/gh/orestarod/sn-themes/images/lyons-screenshot.png"
+}

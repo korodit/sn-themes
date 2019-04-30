@@ -1,0 +1,12 @@
+{
+  "identifier": "com.aaronhalbert.sn-theme-minimal",
+  "name": "Minimal Standard Notes Theme",
+  "content_type": "SN|Component",
+  "area": "themes",
+  "version": "2.3.4",
+  "description": "A basic theme for Standard Notes with wider scroll bars",
+  "url": "https://cdn.jsdelivr.net/gh/ajh3/sn-theme-minimal/dist/dist.css",
+  "download_url": "https://github.com/ajh3/sn-theme-minimal/archive/master.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/minimal.json",
+  "marketing_url": "https://github.com/ajh3/sn-theme-minimal"
+}

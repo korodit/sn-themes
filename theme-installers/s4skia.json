@@ -1,0 +1,13 @@
+{
+  "identifier": "io.github.flowinho.s4skia",
+  "name": "S4skia Theme",
+  "content_type": "SN|Component",
+  "area": "themes",
+  "description": "S4skia Theme",
+  "version": "v1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/flowinho/s4skia/s4skia.css",
+  "download_url": "https://github.com/flowinho/s4skia/archive/master.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/s4skia.json",
+  "marketing_url": "https://github.com/flowinho/s4skia",
+  "thumbnail_url": "https://cdn.jsdelivr.net/gh/orestarod/sn-themes/images/s4skia-screenshot.png"
+}
