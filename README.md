@@ -8,6 +8,8 @@ Third-party themes can be installed by clicking on "Extensions" > "Import Extens
 
 Third-party desktop themes do not require StandardNotes extended. Most third-party themes are not compatible with the mobile app, if they are, you will still need a StandardNotes Extended account for mobile themes.
 
+NOTE: Some themes only work in the desktop app and not in the browser app for now. I have not found why that happens yet.
+
 ## Themes
 
 ### Better Solarized Dark
