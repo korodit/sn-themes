@@ -67,7 +67,7 @@ Theme based on the [gruvbox theme for vim](https://github.com/morhetz/gruvbox)
 
 #### Dracula Theme
 
-Dracula Theme for StandardNotes
+[Dracula Theme](https://draculatheme.com/) for StandardNotes
 
 - Author: garrettjj
 - License: Not specified
