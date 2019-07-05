@@ -3,6 +3,23 @@
 
 Repository for community contributed themes for [Standard Notes](https://standardnotes.org/).
 
+- [Standard Notes themes](#Standard-Notes-themes)
+  - [Installing](#Installing)
+  - [Themes](#Themes)
+    - [Dark themes](#Dark-themes)
+      - [Better Solarized Dark](#Better-Solarized-Dark)
+      - [Material Dark](#Material-Dark)
+      - [Gruvbox Dark Theme](#Gruvbox-Dark-Theme)
+      - [Dracula Theme](#Dracula-Theme)
+      - [Mojave Dark Theme](#Mojave-Dark-Theme)
+    - [Light themes](#Light-themes)
+      - [s4skia Theme](#s4skia-Theme)
+      - [lyons Theme](#lyons-Theme)
+      - [Minimal](#Minimal)
+      - [Solarized light](#Solarized-light)
+  - [Developing themes](#Developing-themes)
+  - [License](#License)
+
 ## Installing
 Third-party themes can be installed by clicking on "Extensions" > "Import Extension" in your StandardNotes webapp or desktop app, pasting the install link and pressing enter. 
 
@@ -146,7 +163,7 @@ Distribute install url as `https://your.server/path/to/mytheme.json`.
 
 
 
-# License
+## License
 
     Standard Notes themes
     Copyright (C) 2018 Samuel Walladge and contributors
