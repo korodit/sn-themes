@@ -46,6 +46,15 @@ Theme based on the [gruvbox theme for vim](https://github.com/morhetz/gruvbox)
 
 ![screenshot](./images/gruvbox-screenshot.png)
 
+### Dracula Theme
+
+Dracula Theme for StandardNotes
+
+- Author: garrettjj
+- License: Not specified
+- Sources: <https://github.com/garrettjj/sn-dracula-theme>
+- Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/dracula.json>
+
 ### s4skia Theme
 
 Light theme that focus on readability on retina displays
