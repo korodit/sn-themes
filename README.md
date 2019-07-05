@@ -56,6 +56,7 @@ Dracula Theme for StandardNotes
 - Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/dracula.json>
 
 ### s4skia Theme
+![screenshot](./images/dracula-screenshot.png)
 
 Light theme that focus on readability on retina displays
 
