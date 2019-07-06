@@ -1,0 +1,13 @@
+{
+  "identifier": "io.github.garrettjj.sn-dracula-theme",
+  "name": "Dracula Theme",
+  "content_type": "SN|Component",
+  "area": "themes",
+  "description": "Dracula Theme",
+  "version": "v1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/garrettjj/sn-dracula-theme/dist/dist.css",
+  "download_url": "https://github.com/garrettjj/sn-dracula-theme/archive/dracula.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/dracula.json",
+  "marketing_url": "https://github.com/garrettjj/sn-dracula-theme",
+  "thumbnail_url": "https://draculatheme.com/assets/img/icons/eye.png"
+}

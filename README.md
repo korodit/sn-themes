@@ -3,6 +3,23 @@
 
 Repository for community contributed themes for [Standard Notes](https://standardnotes.org/).
 
+- [Standard Notes themes](#Standard-Notes-themes)
+  - [Installing](#Installing)
+  - [Themes](#Themes)
+    - [Dark themes](#Dark-themes)
+      - [Better Solarized Dark](#Better-Solarized-Dark)
+      - [Material Dark](#Material-Dark)
+      - [Gruvbox Dark Theme](#Gruvbox-Dark-Theme)
+      - [Dracula Theme](#Dracula-Theme)
+      - [Mojave Dark Theme](#Mojave-Dark-Theme)
+    - [Light themes](#Light-themes)
+      - [s4skia Theme](#s4skia-Theme)
+      - [lyons Theme](#lyons-Theme)
+      - [Minimal](#Minimal)
+      - [Solarized light](#Solarized-light)
+  - [Developing themes](#Developing-themes)
+  - [License](#License)
+
 ## Installing
 Third-party themes can be installed by clicking on "Extensions" > "Import Extension" in your StandardNotes webapp or desktop app, pasting the install link and pressing enter. 
 
@@ -12,7 +29,9 @@ NOTE: Some themes only work in the desktop app and not in the browser app for no
 
 ## Themes
 
-### Better Solarized Dark
+### Dark themes
+
+#### Better Solarized Dark
 
 This theme was forked from [this repository](https://github.com/swalladge/sn-themes) in a quick attempt to package the *official solarized dark theme* as someone who has not yet bought the extended package.
 Only the official .css file was used in place of the original theme's .css, and the links were updated to only take resources from this github page.
@@ -24,7 +43,7 @@ The .zip package necessary was created by the current .css and .json file, and i
 
 ![screenshot](./images/solarized-dark-screenshot.png)
 
-### Material Dark
+#### Material Dark
 
 This theme is similar to the Better Solarized Dark, but using a slightly different color theme and being based off the [Atom Material UI Theme](https://github.com/atom-material/atom-material-ui)
 
@@ -35,7 +54,7 @@ This theme is similar to the Better Solarized Dark, but using a slightly differe
 
 ![screenshot](./images/material-dark-screenshot.png)
 
-### Gruvbox Dark Theme
+#### Gruvbox Dark Theme
 
 Theme based on the [gruvbox theme for vim](https://github.com/morhetz/gruvbox)
 
@@ -46,29 +65,18 @@ Theme based on the [gruvbox theme for vim](https://github.com/morhetz/gruvbox)
 
 ![screenshot](./images/gruvbox-screenshot.png)
 
-### s4skia Theme
+#### Dracula Theme
 
-Light theme that focus on readability on retina displays
+[Dracula Theme](https://draculatheme.com/) for StandardNotes
 
-- Author: flowinho
-- License: GNU General Public License v3.0
-- Sources: <https://github.com/flowinho/s4skia>
-- Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/s4skia.json>
-
-![screenshot](./images/s4skia-screenshot.png)
-
-### lyons Theme
-
-Light, serif theme
-
-- Author: jamesjlyons
+- Author: garrettjj
 - License: Not specified
-- Sources: <https://github.com/jamesjlyons/Lyons>
-- Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/lyons.json>
+- Sources: <https://github.com/garrettjj/sn-dracula-theme>
+- Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/dracula.json>
 
-![screenshot](./images/lyons-screenshot.png)
+![screenshot](./images/dracula-screenshot.png)
 
-### Mojave Dark Theme
+#### Mojave Dark Theme
 
 Dark theme, which roughly matches Mojave Dark Mode.
 
@@ -79,7 +87,31 @@ Dark theme, which roughly matches Mojave Dark Mode.
 
 ![screenshot](https://github.com/matthew-cox/sn-theme-mojave-dark-mode/raw/master/preview.png)
 
-### Minimal
+### Light themes
+
+#### s4skia Theme
+
+Light theme that focus on readability on retina displays
+
+- Author: flowinho
+- License: GNU General Public License v3.0
+- Sources: <https://github.com/flowinho/s4skia>
+- Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/s4skia.json>
+
+![screenshot](./images/s4skia-screenshot.png)
+
+#### lyons Theme
+
+Light, serif theme
+
+- Author: jamesjlyons
+- License: Not specified
+- Sources: <https://github.com/jamesjlyons/Lyons>
+- Install link: <https://cdn.jsdelivr.net/gh/orestarod/sn-themes/theme-installers/lyons.json>
+
+![screenshot](./images/lyons-screenshot.png)
+
+#### Minimal
 
 This theme is nearly the same as the default/blank theme, but widens the scroll bars. Helpful for people who want to do that, as well as anyone who wants to toy with customizing a barebones SN theme.
 
@@ -90,7 +122,7 @@ This theme is nearly the same as the default/blank theme, but widens the scroll 
 
 ![screenshot](./images/minimal-screenshot.png)
 
-### Solarized light
+#### Solarized light
 
 - Author: skulkingfox
 - License: Not specified
@@ -131,7 +163,7 @@ Distribute install url as `https://your.server/path/to/mytheme.json`.
 
 
 
-# License
+## License
 
     Standard Notes themes
     Copyright (C) 2018 Samuel Walladge and contributors
