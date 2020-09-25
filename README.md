@@ -1,4 +1,4 @@
-
+# IMPORTANT: I will stop using Standard Notes for the forseeable future, so this repository WILL NOT BE MANTAINED and updated any more. Refer to forks for a possibly mantained version, or fork this yourself.
 # Standard Notes themes
 
 Repository for community contributed themes for [Standard Notes](https://standardnotes.org/).
